@@ -4,6 +4,7 @@ body{
 	font-family: 'Playfair Display', serif;
 	background: url("../img/noisy_net.png");
 	color:#EBEBCF;
+	font-size: 1.15em;
 }
 h1,h2,h3{
 	color: #F0392B;
