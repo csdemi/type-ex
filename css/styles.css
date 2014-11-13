@@ -9,8 +9,8 @@ h1,h2,h3{
 	color: #F0392B;
 	text-align: center;
 }
-section >h2+ p:nth-child(1){
-	text-indent: 2px;
+body > div > section.grid_12.alpha > p,body > div > section:nth-child(2) > section.grid_7.alpha > p,body > div > section:nth-child(2) > section.grid_5.omega > p{
+	text-indent: 1em;
 }
 /* Show Grid */
 .showgrid {
