@@ -7,6 +7,10 @@ body{
 }
 h1,h2,h3{
 	color: #F0392B;
+	text-align: center;
+}
+section >h2+ p:nth-child(1){
+	text-indent: 2px;
 }
 /* Show Grid */
 .showgrid {
